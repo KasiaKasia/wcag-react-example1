@@ -11,6 +11,7 @@ const Navbar: React.FC = () => {
                     <Link href="/text" className="h-[42px] px-4 flex items-center justify-center border border-black whitespace-nowrap">Tekst</Link>
                     <Link href="/link" className="h-[42px] px-4 flex items-center justify-center border border-black whitespace-nowrap">Linki, odsyłacze, przyciski</Link>
                     <Link href="/keyboard_navigation" className="h-[42px] px-4 flex items-center justify-center border border-black whitespace-nowrap">Nawigacja za pomocą klawiatury</Link>
+                    <Link href="/website_map" className="h-[42px] px-4 flex items-center justify-center border border-black whitespace-nowrap">Mapa strony</Link>
 
                 </div>
             </div>
